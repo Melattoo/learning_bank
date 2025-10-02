@@ -1,0 +1,19 @@
+| Coluna        | Tradução / Significado         | Explicação prática                                                                                       |
+| ------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **age**       | Idade                          | Idade do cliente em anos.                                                                                |
+| **job**       | Profissão                      | Ocupação principal do cliente (ex.: admin., estudante, aposentado).                                      |
+| **marital**   | Estado civil                   | Estado civil do cliente (casado, solteiro, divorciado).                                                  |
+| **education** | Escolaridade                   | Nível de instrução (primário, secundário, universitário).                                                |
+| **default**   | Inadimplência anterior         | Se o cliente tinha inadimplência no passado (yes/no).                                                    |
+| **balance**   | Saldo médio                    | Saldo médio na conta bancária, em euros.                                                                 |
+| **housing**   | Empréstimo habitacional        | Se o cliente possui financiamento de casa (yes/no).                                                      |
+| **loan**      | Empréstimo pessoal             | Se o cliente possui empréstimo pessoal (yes/no).                                                         |
+| **contact**   | Meio de contato                | Como o cliente foi contatado (telefone celular ou fixo).                                                 |
+| **day**       | Dia do contato                 | Dia do mês em que ocorreu a última ligação (1 a 31).                                                     |
+| **month**     | Mês do contato                 | Mês em que ocorreu a última ligação (ex.: may, jun, jul).                                                |
+| **duration**  | Duração da ligação             | Tempo da ligação em segundos (quanto durou o contato).                                                   |
+| **campaign**  | Nº de contatos atuais          | Quantas vezes o cliente foi contatado durante esta campanha.                                             |
+| **pdays**     | Dias desde último contato      | Número de dias desde o último contato numa campanha anterior (−1 significa que não foi contatado antes). |
+| **previous**  | Nº de contatos anteriores      | Quantas vezes o cliente foi contatado em campanhas anteriores.                                           |
+| **poutcome**  | Resultado da campanha anterior | Resultado da campanha de marketing anterior (sucesso, fracasso, inexistente).                            |
+| **deposit**   | Resposta (target)              | Variável alvo: se o cliente aceitou abrir um depósito a prazo ("yes" ou "no").                           |
