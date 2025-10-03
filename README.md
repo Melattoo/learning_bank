@@ -37,5 +37,3 @@
 
 * 📌 **Exercício 16:** Duração da ligação (`duration`) influencia a adesão? Mostrar em gráfico.
 * 📌 **Exercício 17:** Qual o melhor canal de contato (`contact`) para novas campanhas?
-* 📌 **Exercício 18:** Existe relação entre número de contatos anteriores (`previous`) e adesão?
-* 📌 **Exercício 19:** Montar um relatório curto com **3 perfis ideais de clientes** para focar na próxima campanha.
