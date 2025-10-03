@@ -35,32 +35,7 @@
 ## **4. Insights para Estratégia de Marketing**
 
 
-* 📌 **Exercício 16:** Quem respondeu melhor à campanha: clientes com ou sem financiamento habitacional (`housing`)?
-* 📌 **Exercício 17:** Duração da ligação (`duration`) influencia a adesão? Mostrar em gráfico.
-* 📌 **Exercício 18:** Qual o melhor canal de contato (`contact`) para novas campanhas?
-* 📌 **Exercício 19:** Existe relação entre número de contatos anteriores (`previous`) e adesão?
-* 📌 **Exercício 20:** Montar um relatório curto com **3 perfis ideais de clientes** para focar na próxima campanha.
-
----
-
-## **5. Mini Painel no Streamlit**
-
-
-* KPIs no topo:
-
-  * Total de clientes
-  * Taxa geral de adesão
-  * Idade média
-  * Saldo médio
-
-* Filtros: profissão, estado civil, idade.
-
-* Gráficos:
-
-  * Distribuição da idade (histograma).
-  * Adesão por profissão (barras).
-  * Adesão por mês (linha).
-  * Boxplot de saldo por adesão.
-
-* Tabela dinâmica: listar **top 20 clientes com maior saldo que não aderiram**, para direcionar no próximo contato.
-
+* 📌 **Exercício 16:** Duração da ligação (`duration`) influencia a adesão? Mostrar em gráfico.
+* 📌 **Exercício 17:** Qual o melhor canal de contato (`contact`) para novas campanhas?
+* 📌 **Exercício 18:** Existe relação entre número de contatos anteriores (`previous`) e adesão?
+* 📌 **Exercício 19:** Montar um relatório curto com **3 perfis ideais de clientes** para focar na próxima campanha.
