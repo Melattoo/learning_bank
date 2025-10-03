@@ -1,8 +1,6 @@
-# 📝 **Exercícios Simulados**
+# 📝 **Exercícios**
 
 ## **1. Exploração Inicial dos Dados (Análise Descritiva)**
-
-O “chefe” te pede um levantamento rápido para entender o dataset:
 
 * 📌 **Exercício 1:** Quantos clientes participaram da campanha?
 * 📌 **Exercício 2:** Idade média, mínima e máxima dos clientes.
@@ -14,7 +12,6 @@ O “chefe” te pede um levantamento rápido para entender o dataset:
 
 ## **2. Análise de Segmentos (Perfis de Cliente)**
 
-Agora querem entender quais perfis responderam melhor:
 
 * 📌 **Exercício 6:** Taxa de adesão ao depósito por faixa etária (ex.: 18-30, 31-45, 46-60, 60+).
 * 📌 **Exercício 7:** Comparar taxa de adesão entre solteiros, casados e divorciados.
@@ -26,7 +23,6 @@ Agora querem entender quais perfis responderam melhor:
 
 ## **3. Visualizações (Matplotlib / Seaborn)**
 
-Agora o gestor quer ver isso em gráficos para uma apresentação:
 
 * 📊 **Exercício 11:** Histograma da idade dos clientes.
 * 📊 **Exercício 12:** Boxplot do saldo por estado civil.
@@ -36,9 +32,8 @@ Agora o gestor quer ver isso em gráficos para uma apresentação:
 
 ---
 
-## **4. Insights para Estratégia de Marketing (Simulação Vida Real)**
+## **4. Insights para Estratégia de Marketing**
 
-Aqui você já vira **analista de negócio**:
 
 * 📌 **Exercício 16:** Quem respondeu melhor à campanha: clientes com ou sem financiamento habitacional (`housing`)?
 * 📌 **Exercício 17:** Duração da ligação (`duration`) influencia a adesão? Mostrar em gráfico.
@@ -48,9 +43,8 @@ Aqui você já vira **analista de negócio**:
 
 ---
 
-## **5. Mini Painel no Streamlit (Entrega Final)**
+## **5. Mini Painel no Streamlit**
 
-O chefe pede um **dashboard interativo**:
 
 * KPIs no topo:
 
